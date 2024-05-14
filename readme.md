@@ -24,7 +24,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=snowby666&style=for-the-badge&color=red"/></a>
 </p> -->
 
-<details> 
+<details open> 
   <summary><h2>🛠 My Tech Stack</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
