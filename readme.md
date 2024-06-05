@@ -47,8 +47,8 @@
       <img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
       <img alt="Django" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray">
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-      <img alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-      <img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
+      <img alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D">
+      <img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=#00DC82">
       <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white">
       <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white">
       <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
